@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1616433604 source:g:\programação\avaliação01\2158744_victor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Financas.h"
+	"Geometria.h"
+	"Fisica.h"
+
+1616420137 source:g:\programação\avaliação01\2158744_victor\financas.c
+	"Financas.h"
+	"math.h"
+
+1616432886 g:\programação\avaliação01\2158744_victor\financas.h
+
+1616432000 source:g:\programação\avaliação01\2158744_victor\geometria.c
+	"Geometria.h"
+	"math.h"
+
+1616432861 g:\programação\avaliação01\2158744_victor\geometria.h
+
+1616420854 source:g:\programação\avaliação01\2158744_victor\fisica.c
+	"Fisica.h"
+	"Geometria.h"
+	"math.h"
+
+1616432876 g:\programação\avaliação01\2158744_victor\fisica.h
+

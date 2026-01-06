@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618758820 source:g:\programação\vetores e alocação dinâmica de memória\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618764608 source:g:\programação\strings\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

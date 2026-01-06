@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620064878 source:g:\programação\struct, union, enum\ex1\cabecalho.c
+	"Cabecalho.h"
+	"math.h"
+	<stdio.h>
+	<stdlib.h>
+
+1620064041 g:\programação\struct, union, enum\ex1\cabecalho.h
+
+1620065091 source:g:\programação\struct, union, enum\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cabecalho.h"
+
