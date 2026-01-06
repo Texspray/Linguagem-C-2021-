@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615990655 source:g:\programação\rotinas, ponteiros e bibliotecas\circuitos1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circuitos.h"
+
+1615990394 source:g:\programação\rotinas, ponteiros e bibliotecas\circuitos1\circuitos.c
+	"circuitos.h"
+
+1615990394 g:\programação\rotinas, ponteiros e bibliotecas\circuitos1\circuitos.h
+
